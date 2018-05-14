@@ -1,0 +1,34 @@
+.form-control {
+  display: inline-block;
+  width: 250px;
+  margin-bottom: 10px;
+  color: lightslategray;
+  }
+
+h1 {
+  color: black;
+  font-size: 40px;
+}
+
+h2 {
+  color: black;
+  font-size: 30px;
+  ;
+}
+
+h3 {
+  color: black;
+  font-size: 20px;
+}
+
+body {
+  background-color: white;
+}
+
+.jumbotron {
+  height: 150px;;
+  padding:5px;
+  text-align: center;
+  font-size: 30px;
+  color: lightslategray;
+}
